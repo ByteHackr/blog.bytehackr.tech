@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: bytehackr.github.io
+Token: 4235aeced97bdae8b76bd7d5e1b1bc189997876128e8e7f1d0aedcc2c772d18b
