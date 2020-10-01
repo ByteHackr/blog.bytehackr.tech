@@ -32,9 +32,8 @@ More Info at [Parrot Security](https://parrotsec.org/).
 [<img target="_blank" src="https://img.icons8.com/clouds/64/000000/resume.png">](https://www.linkedin.com/in/bytehackr/) 
 
 ## Email Me
-(To get a assured reply in under 5 mins)
 
-[sandipan@parrotsec.org](mailto:sandipan@parrotsec.org)
+EMAIL ID: [sandipan@parrotsec.org](mailto:sandipan@parrotsec.org)
 
 GPG KEY: [0xFEC20A5B](https://raw.githubusercontent.com/ByteHackr/ByteHackr.github.io/master/gpg/Public_ParrotSec.key)
 
