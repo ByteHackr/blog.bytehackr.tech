@@ -19,7 +19,7 @@ My name is **Sandipan Roy**. And Born and raised in India. I love to write progr
 
 **Development Environment:** Debian GNU/Linux
 
-**Version Control:**  GitHub | Gitlab
+**Version Control:**  GitHub / Gitlab
 
 ## Exprience
 
