@@ -40,7 +40,7 @@ GPG KEY: [0xFEC20A5B](https://raw.githubusercontent.com/ByteHackr/ByteHackr.gith
 ## Connect with me!
 Known on internet as **ByteHackr**
 
-[<img target="_blank" src="https://img.icons8.com/color/48/000000/linkedin">](https://www.linkedin.com/in/bytehackr/)  [<img target="_blank" src="https://img.icons8.com/color/48/000000/github-2.png">](https://www.github.com/bytehackr/) [<img target="_blank" src="https://img.icons8.com/color/48/000000/twitter">](https://www.twitter.com/bytehackr/) [<img target="_blank" src="https://img.icons8.com/color/48/000000/facebook">](https://www.facebook.com/bytehackr/)[<img target="_blank" src="https://img.icons8.com/color/48/000000/instagram">](https://www.instagram.com/bytehackr/)
+[<img target="_blank" src="https://img.icons8.com/color/48/000000/linkedin">](https://www.linkedin.com/in/bytehackr/)  [<img target="_blank" src="https://img.icons8.com/color/48/000000/github-2.png">](https://www.github.com/bytehackr/) [<img target="_blank" src="https://img.icons8.com/color/48/000000/twitter">](https://www.twitter.com/bytehackr/) [<img target="_blank" src="https://img.icons8.com/color/48/000000/facebook">](https://www.facebook.com/bytehackr/) [<img target="_blank" src="https://img.icons8.com/color/48/000000/instagram">](https://www.instagram.com/bytehackr/)
 
 
 # <ins> DONATE ME </ins>
