@@ -43,9 +43,13 @@ Link: [Github.com/ByteHackr](https://Github.com/ByteHackr)
 Get in Touch with Me
 
 Email: [sandipan@parrotsec.org](mailto:sandipan@parrotsec.org)
+
 GPG KEY: [0xFEC20A5B](https://raw.githubusercontent.com/ByteHackr/ByteHackr.github.io/master/gpg/Public_ParrotSec.key)
+
 Twitter: [@ByteHackr](https://twitter.com/bytehackr)
+
 Linkedin:[@ByteHackr](https://www.linkedin.com/in/bytehackr/)
+
 Telegram: [@ByteHackr](https://t.me/bytehackr)
 
 # <ins> DONATE ME </ins>
