@@ -3,6 +3,8 @@ layout: page
 title: About Me
 ---
 
+About Me
+--------
 <p style='text-align: justify;'> I’m Sandipan Roy.Born and raised in India. I love to write program & solving problems with a demonstrated history of working in the computer and network security. Skilled in Data Privacy, Cryptography,Computer Networking, Python,Java and C++. I’m truly passionate about my work and always increase my knowledge. I also like to try new technologies and improve myself under each point of view.</p>
 
 
@@ -25,13 +27,13 @@ More Info at [Parrot Security](https://parrotsec.org/).
 
 ## <ins> SKILLS </ins>
 
-| Knowledge | Programming Languages |
-| ------ | ----------- |
-| Network Security   | Python |
-| Penetration Testing | Java |
-| Algorithm    | C++ |
-| Linux Administration    | JavaScript |
-| Malware Analysis    | PHP |
+### Knowledge
+
+Network Security / Penetration Testing / Algorithm / Linux Administration / Malware Analysis
+
+### Programming Languages
+
+Python / Java / C++ / JavaScript / PHP / Go Lang / Nim Lang
 
 
 # WORKS
@@ -56,6 +58,6 @@ Telegram: [@ByteHackr](https://t.me/bytehackr)
 
 Your Donation Make Me Alive
 
-Paypal: [paypal.me/bytehackr]
+Paypal: [paypal.me/bytehackr](https://paypal.me/bytehackr)
 
 
