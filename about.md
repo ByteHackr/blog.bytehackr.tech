@@ -1,18 +1,18 @@
 ---
 layout: page
-title: About Me :)__
+title: About Me
 ---
 
-    I’m Sandipan Roy.Born and raised in India.I love to write program & solving problems with a demonstrated history of working in the computer and network security. Skilled in Data Privacy, Cryptography,Computer Networking, Python,Java and C++. I’m truly passionate about my work and always increase my knowledge. I also like to try new technologies and improve myself under each point of view.
+I’m Sandipan Roy.Born and raised in India. I love to write program & solving problems with a demonstrated history of working in the computer and network security. Skilled in Data Privacy, Cryptography,Computer Networking, Python,Java and C++. I’m truly passionate about my work and always increase my knowledge. I also like to try new technologies and improve myself under each point of view.
 
 
 # <ins> EDUCATION </ins>
 
-###2018 – Present
+### 2018 – Present
 West Bengal State University
 Master of Science (M.Sc.) in Computer Science
 
-###2015 – 2018
+### (2015 – 2018)
 University of Kalyani
 Bachelor of Science(B.Sc) in Computer Science(H)
 
@@ -42,15 +42,16 @@ Link: [Github.com/ByteHackr](https://Github.com/ByteHackr)
 # <ins> CONTACT ME </ins>
 Get in Touch with Me
 
-    Email: [sandipan@parrotsec.org](mailto:sandipan@parrotsec.org)
-    GPG KEY: [0xFEC20A5B](https://raw.githubusercontent.com/ByteHackr/ByteHackr.github.io/master/My_GPG/Public_ParrotSec.key)
-    Twitter: [@ByteHackr](https://twitter.com/bytehackr)
-    Linkedin:[@ByteHackr](https://www.linkedin.com/in/bytehackr/)
-    Telegram: [@ByteHackr](https://t.me/bytehackr)
+Email: [sandipan@parrotsec.org](mailto:sandipan@parrotsec.org)
+GPG KEY: [0xFEC20A5B](https://raw.githubusercontent.com/ByteHackr/ByteHackr.github.io/master/My_GPG/Public_ParrotSec.key)
+Twitter: [@ByteHackr](https://twitter.com/bytehackr)
+Linkedin:[@ByteHackr](https://www.linkedin.com/in/bytehackr/)
+Telegram: [@ByteHackr](https://t.me/bytehackr)
 
-# DONATE ME
+# <ins> DONATE ME </ins>
+
 Your Donation Make Me Alive
 
-    Paypal: [paypal.me/bytehackr]
+Paypal: [paypal.me/bytehackr]
 
 
