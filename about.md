@@ -5,7 +5,7 @@ title: About Me
 
 About Me
 --------
-<center>
+
 ## Who Am I?
 My name is **Sandipan Roy**. And Born and raised in India. I love to write program & solving problems with a demonstrated history of working in the computer and network security. Skilled in Data Privacy, Cryptography,Computer Networking, Python,Java and C++. I’m truly passionate about my work and always increase my knowledge. I also like to try new technologies and improve myself under each point of view.
 
@@ -56,7 +56,6 @@ Your Donation Make Me Alive
 Paypal: [paypal.me/bytehackr](https://paypal.me/bytehackr)
 
 
-</center>
 
 
 
