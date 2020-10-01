@@ -3,18 +3,18 @@ layout: page
 title: About Me
 ---
 
-I’m Sandipan Roy.Born and raised in India. I love to write program & solving problems with a demonstrated history of working in the computer and network security. Skilled in Data Privacy, Cryptography,Computer Networking, Python,Java and C++. I’m truly passionate about my work and always increase my knowledge. I also like to try new technologies and improve myself under each point of view.
+<p style='text-align: justify;'> I’m Sandipan Roy.Born and raised in India. I love to write program & solving problems with a demonstrated history of working in the computer and network security. Skilled in Data Privacy, Cryptography,Computer Networking, Python,Java and C++. I’m truly passionate about my work and always increase my knowledge. I also like to try new technologies and improve myself under each point of view.</p>
 
 
 # <ins> EDUCATION </ins>
 
-### 2018 – Present
-West Bengal State University
-Master of Science (M.Sc.) in Computer Science
+### (2018 – Present)
+
+Master of Science (M.Sc.) in Computer Science from West Bengal State University
 
 ### (2015 – 2018)
-University of Kalyani
-Bachelor of Science(B.Sc) in Computer Science(H)
+
+Bachelor of Science(B.Sc) in Computer Science(H) from University of Kalyani
 
 # <ins> EXPERIENCE </ins>
 
@@ -43,7 +43,7 @@ Link: [Github.com/ByteHackr](https://Github.com/ByteHackr)
 Get in Touch with Me
 
 Email: [sandipan@parrotsec.org](mailto:sandipan@parrotsec.org)
-GPG KEY: [0xFEC20A5B](https://raw.githubusercontent.com/ByteHackr/ByteHackr.github.io/master/My_GPG/Public_ParrotSec.key)
+GPG KEY: [0xFEC20A5B](https://raw.githubusercontent.com/ByteHackr/ByteHackr.github.io/master/gpg/Public_ParrotSec.key)
 Twitter: [@ByteHackr](https://twitter.com/bytehackr)
 Linkedin:[@ByteHackr](https://www.linkedin.com/in/bytehackr/)
 Telegram: [@ByteHackr](https://t.me/bytehackr)
