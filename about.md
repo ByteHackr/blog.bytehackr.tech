@@ -15,7 +15,7 @@ My name is **Sandipan Roy**. And Born and raised in India. I love to write progr
 
 **Knowledge:** Network Security / Penetration Testing / Algorithm / Linux Administration / Malware Analysis
 
-**Frameworks:** React.js, Vue.js
+**Frameworks:** Django, React.js, Vue.js
 
 **Development Environment:** Debian GNU/Linux
 
@@ -33,7 +33,7 @@ More Info at [Parrot Security](https://parrotsec.org/).
 Linkedin: [<img target="_blank" src="https://img.icons8.com/clouds/64/000000/resume.png">](https://www.linkedin.com/in/bytehackr/) 
 
 ## Email Me
-(To get a assured reply in under 5 mins :wink:)
+(To get a assured reply in under 5 mins)
 
 [<img target="_blank" src="https://img.icons8.com/color/48/000000/email.png">](mailto:sandipan@parrotsec.org) sandipan@parrotsec.org 
 
