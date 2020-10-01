@@ -39,14 +39,14 @@ Linkedin
 ## Email Me
 (To get a assured reply in under 5 mins :wink:)
 
-sandipan[<img target="_blank" src="https://img.icons8.com/color/48/000000/email.png">](mailto:sandipan@parrotsec.org)parrotsec.org
+sandipan@parrotsec.org [<img target="_blank" src="https://img.icons8.com/color/48/000000/email.png">](mailto:sandipan@parrotsec.org)
 
-GPG KEY: [0xFEC20A5B <img target="_blank" src="https://img.icons8.com/color/48/000000/encrypt](https://raw.githubusercontent.com/ByteHackr/ByteHackr.github.io/master/gpg/Public_ParrotSec.key)
+GPG KEY: [0xFEC20A5B](https://raw.githubusercontent.com/ByteHackr/ByteHackr.github.io/master/gpg/Public_ParrotSec.key) [<img target="_blank" src="https://img.icons8.com/color/48/000000/encrypt](https://raw.githubusercontent.com/ByteHackr/ByteHackr.github.io/master/gpg/Public_ParrotSec.key)
 
 ## Connect with me!
 Known on internet as **ByteHackr**
 
-[<img target="_blank" src="https://img.icons8.com/cute-clipart/64/000000/linkedin.png">](https://www.linkedin.com/in/bytehackr/)  [<img target="_blank" src="https://img.icons8.com/color/48/000000/github-2.png">](https://www.github.com/bytehackr/) [<img target="_blank" src="https://img.icons8.com/cute-clipart/64/000000/twitter.png">](https://www.twitter.com/bytehackr/) [<img target="_blank" src="https://img.icons8.com/cute-clipart/50/000000/facebook.png">](https://www.facebook.com/bytehackr/)
+[<img target="_blank" src="https://img.icons8.com/cute-clipart/64/000000/linkedin">](https://www.linkedin.com/in/bytehackr/)  [<img target="_blank" src="https://img.icons8.com/color/48/000000/github-2.png">](https://www.github.com/bytehackr/) [<img target="_blank" src="https://img.icons8.com/cute-clipart/64/000000/twitter">](https://www.twitter.com/bytehackr/) [<img target="_blank" src="https://img.icons8.com/cute-clipart/50/000000/facebook">](https://www.facebook.com/bytehackr/)[<img target="_blank" src="https://img.icons8.com/cute-clipart/64/000000/instagram">](https://www.instagram.com/bytehackr/)
 
 
 # <ins> DONATE ME </ins>
