@@ -29,16 +29,15 @@ Testing application for security bugs and so on.
 More Info at [Parrot Security](https://parrotsec.org/).
 
 ## My Resume
-Linkedin
 
-[<img target="_blank" src="https://img.icons8.com/clouds/64/000000/resume.png">](https://www.linkedin.com/in/bytehackr/) 
+[<img target="_blank" src="https://img.icons8.com/clouds/64/000000/resume.png">](https://www.linkedin.com/in/bytehackr/) {Linkedin}
 
 ## Email Me
 (To get a assured reply in under 5 mins :wink:)
 
 sandipan@parrotsec.org [<img target="_blank" src="https://img.icons8.com/color/48/000000/email.png">](mailto:sandipan@parrotsec.org)
 
-GPG KEY: [0xFEC20A5B](https://raw.githubusercontent.com/ByteHackr/ByteHackr.github.io/master/gpg/Public_ParrotSec.key) [<img target="_blank" src="https://img.icons8.com/color/48/000000/encrypt](https://raw.githubusercontent.com/ByteHackr/ByteHackr.github.io/master/gpg/Public_ParrotSec.key)
+GPG KEY: [0xFEC20A5B](https://raw.githubusercontent.com/ByteHackr/ByteHackr.github.io/master/gpg/Public_ParrotSec.key) [<img target="_blank" src="https://img.icons8.com/color/48/000000/encrypt>](https://raw.githubusercontent.com/ByteHackr/ByteHackr.github.io/master/gpg/Public_ParrotSec.key)
 
 ## Connect with me!
 Known on internet as **ByteHackr**
