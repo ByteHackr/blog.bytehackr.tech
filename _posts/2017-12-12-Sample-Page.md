@@ -1,5 +1,5 @@
 ---
-title: Sample Page
+title: Encrypt Yourself Using Python
 published: true
 ---
 
