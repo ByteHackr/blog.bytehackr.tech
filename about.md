@@ -29,13 +29,12 @@ Testing application for security bugs and so on.
 More Info at [Parrot Security](https://parrotsec.org/).
 
 ## My Resume
-
-Linkedin: [<img target="_blank" src="https://img.icons8.com/clouds/64/000000/resume.png">](https://www.linkedin.com/in/bytehackr/) 
+[<img target="_blank" src="https://img.icons8.com/clouds/64/000000/resume.png">](https://www.linkedin.com/in/bytehackr/) 
 
 ## Email Me
 (To get a assured reply in under 5 mins)
 
-[<img target="_blank" src="https://img.icons8.com/color/48/000000/email.png">](mailto:sandipan@parrotsec.org) sandipan@parrotsec.org 
+[sandipan@parrotsec.org](mailto:sandipan@parrotsec.org)
 
 GPG KEY: [0xFEC20A5B](https://raw.githubusercontent.com/ByteHackr/ByteHackr.github.io/master/gpg/Public_ParrotSec.key)
 
