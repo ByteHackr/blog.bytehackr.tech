@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/bytehackr
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://sandipan.ml
+  * I am bytehackr (https://keybase.io/bytehackr) on keybase.
+  * I have a public key ASDhPqCUDP4zs3TX5Iuc8It5zEK5hPxWNcu6u_iPR7rPcAo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01201116d8996257499c16a843c904b67b26bd290803b85741ad6fbf43371d55ae730a",
+      "host": "keybase.io",
+      "kid": "0120e13ea0940cfe33b374d7e48b9cf08b79cc42b984fc5635cbbabbf88f47bacf700a",
+      "uid": "3764f78be3fef4a93fa8ab6758bd7c19",
+      "username": "bytehackr"
+    },
+    "merkle_root": {
+      "ctime": 1601644857,
+      "hash": "5d77c89089edd06096b815bc9bb9b23634f6a1b7ca05012c94ae2fcf36ebbe2a6a5ad70f466a7c19bc2fad42b81f8f2ab3d7d55f9df78504efca84c7ecb2a6bb",
+      "hash_meta": "08bea25c41e71c90d239f64de6256c7f97e7d041f8017939cc87c59d60dd110c",
+      "seqno": 17729018
+    },
+    "service": {
+      "entropy": "ogQPON+uwcAAd+iZULWnNq+0",
+      "hostname": "sandipan.ml",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "5.5.1"
+  },
+  "ctime": 1601644982,
+  "expire_in": 504576000,
+  "prev": "4aa9a73ebc8d470956097c6523aef800f31a8000b5b254b1620f2c92b31fb4e2",
+  "seqno": 149,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEg4T6glAz+M7N01+SLnPCLecxCuYT8VjXLurv4j0e6z3AKp3BheWxvYWTES5cCzJXEIEqppz68jUcJVgl8ZSOu+ADzGoAAtbJUsWIPLJKzH7TixCDFVBQtY5Ds3AxCAq7Rgto5ekZvu4cCE7Ukm8Q/f2SueAIBwqNzaWfEQDTvOsqNPaLcitM/iRpAWWFd1uJUuhFgzU51l49iI2IjuVNTbhCDKhFDjsMQk2o1XkWl6NKQnNo95VSCK//Wig2oc2lnX3R5cGUgpGhhc2iCpHR5cGUIpXZhbHVlxCAY60LR7yQOVQdUyBh64yzBGOjasaZsB7E9+I8oltrx66N0YWfNAgKndmVyc2lvbgE=
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/bytehackr
+
+==================================================================
