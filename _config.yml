@@ -1,32 +1,31 @@
+# top level stuff you probably don't need to touch
+highlighter: rouge
+markdown: kramdown
+rdiscount:
+  extensions: [smart]
+permalink: /:title.html
+paginate: 5
+plugins: [jekyll-paginate]
+port: 3000
+safe: true
+
+
+# edit here to achieve your personal greatness
+url: http://bytehackr.github.io/
+baseurl: /bytehackr/
 title: Sandipan Roy
-description: "Take it Easy; Make it Easy;"
-author:
-  name: "Sandipan Roy"
-  email: "sandipan@parrotsec.org"
-  url: "https://www.sandipan.ml"
+author: Sandipan Roy
+description: Personal Blog and Resume
+avatar: nemo.jpg
+email: sandipan@parrotsec.org
+github: bytehackr # username
+twitter: bytehackr
+linkedin: bytehackr
+stackoverflow: username   #e.g: #users/2735833/proton1h1
+#Comment out if you don't want disqus
+disqus: #username
+google_analytics: #UA-69391421-1
 
-baseurl: /
 
-source: .
-destination: ./_site
-permalink: /:title
-paginate: 3
-paginate_path: /page/:num/
-
-defaults:
-  -
-    scope:
-      path: ""
-      type: "posts"
-    values:
-      layout: "post"
-
-future: true
-plugins:
-  - jekyll-seo-tag
-  - jekyll-paginate
-  - jekyll-sitemap
-
-# Custom variables
-owner : "Sandipan Roy"
-year : "2020"
+# needed for travis-ci build
+exclude: [vendor]
