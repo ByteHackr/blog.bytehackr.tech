@@ -11,8 +11,8 @@ safe: true
 
 
 # edit here to achieve your personal greatness
-url: http://sandipan.ml
-baseurl: /
+url: https://sandipan.ml
+baseurl: sandipan.ml
 title: Sandipan Roy
 author: Sandipan Roy
 description: Personal Blog and Resume
