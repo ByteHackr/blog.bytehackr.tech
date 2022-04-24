@@ -1,0 +1,27 @@
+# Resources
+
+**OSCP Journeys and Preparation guides:**
+
+* [https://medium.com/@parthdeshani/how-to-pass-oscp-like-boss-b269f2ea99d](https://medium.com/@parthdeshani/how-to-pass-oscp-like-boss-b269f2ea99d)
+* [https://www.netsecfocus.com/oscp/2019/03/29/The\_Journey\_to\_Try\_Harder-\_TJNulls\_Preparation\_Guide\_for\_PWK\_OSCP.html](https://www.netsecfocus.com/oscp/2019/03/29/The\_Journey\_to\_Try\_Harder-\_TJNulls\_Preparation\_Guide\_for\_PWK\_OSCP.html)
+* [https://medium.com/@calmhavoc/oscp-the-pain-the-pleasure-a506962baad](https://medium.com/@calmhavoc/oscp-the-pain-the-pleasure-a506962baad)
+* [https://github.com/burntmybagel/OSCP-Prep](https://github.com/burntmybagel/OSCP-Prep)
+* [https://medium.com/@m4lv0id/and-i-did-oscp-589babbfea19](https://medium.com/@m4lv0id/and-i-did-oscp-589babbfea19)
+* [https://gr0sabi.github.io/security/oscp-insights-best-practices-resources/#note-taking](https://gr0sabi.github.io/security/oscp-insights-best-practices-resources/#note-taking)
+* [https://satiex.net/2019/04/10/offensive-security-certified-professional/amp/?\_\_twitter\_impression=true](https://satiex.net/2019/04/10/offensive-security-certified-professional/amp/?\_\_twitter\_impression=true)
+* [https://hakin9.org/try-harder-my-penetration-testing-with-kali-linux-oscp-review-and-courselab-experience-my-oscp-review-by-jason-bernier/](https://hakin9.org/try-harder-my-penetration-testing-with-kali-linux-oscp-review-and-courselab-experience-my-oscp-review-by-jason-bernier/)
+* [https://theslickgeek.com/oscp/](https://theslickgeek.com/oscp/)
+* [http://dann.com.br/oscp-offensive-security-certification-pwk-course-review/](http://dann.com.br/oscp-offensive-security-certification-pwk-course-review/)
+* [https://h0mbre.github.io/OSCP/#](https://h0mbre.github.io/OSCP/#)
+* [https://prasannakumar.in/infosec/my-walk-towards-cracking-oscp/](https://prasannakumar.in/infosec/my-walk-towards-cracking-oscp/)
+* [https://infosecuritygeek.com/my-oscp-journey/](https://infosecuritygeek.com/my-oscp-journey/)
+* [https://acknak.fr/en/articles/oscp-tools/](https://acknak.fr/en/articles/oscp-tools/)
+* [https://r3dg33k.com/2018-10-09-oscp-exp/](https://r3dg33k.com/2018-10-09-oscp-exp/)
+* [https://www.jimwilbur.com/oscp-links/](https://www.jimwilbur.com/oscp-links/)
+* [https://www.linkedin.com/pulse/road-oscp-oluwaseun-oyelude-oscp](https://www.linkedin.com/pulse/road-oscp-oluwaseun-oyelude-oscp)
+* [https://scund00r.com/all/oscp/2018/02/25/passing-oscp.html](https://scund00r.com/all/oscp/2018/02/25/passing-oscp.html)
+* [https://blog.vonhewitt.com/2018/08/oscp-exam-cram-log-aug-sept-oct-2018/](https://blog.vonhewitt.com/2018/08/oscp-exam-cram-log-aug-sept-oct-2018/)
+* [https://jhalon.github.io/OSCP-Review/](https://jhalon.github.io/OSCP-Review/)
+* [https://www.alienvault.com/blogs/security-essentials/how-to-prepare-to-take-the-oscp](https://www.alienvault.com/blogs/security-essentials/how-to-prepare-to-take-the-oscp)
+* [https://niiconsulting.com/checkmate/2017/06/a-detail-guide-on-oscp-preparation-from-newbie-to-oscp/](https://niiconsulting.com/checkmate/2017/06/a-detail-guide-on-oscp-preparation-from-newbie-to-oscp/)
+* [https://thor-sec.com/review/oscp/oscp\_review/](https://thor-sec.com/review/oscp/oscp\_review/)
