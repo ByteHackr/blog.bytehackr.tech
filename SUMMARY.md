@@ -61,3 +61,7 @@
 * [Resources](extra/resources/README.md)
   * [Tools](extra/resources/tools.md)
   * [Cheatsheets](extra/resources/cheatsheets.md)
+
+***
+
+* [Confused Injection](confused-injection.md)
