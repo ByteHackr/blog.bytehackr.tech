@@ -4,6 +4,7 @@
 
 ## BLOG
 
+* [Confused Injection](blog/confused-injection.md)
 * [Web-App Checklist Pentest](blog/pentest\_web\_check.md)
 
 ## Penetration Test
@@ -61,7 +62,3 @@
 * [Resources](extra/resources/README.md)
   * [Tools](extra/resources/tools.md)
   * [Cheatsheets](extra/resources/cheatsheets.md)
-
-***
-
-* [Confused Injection](confused-injection.md)
