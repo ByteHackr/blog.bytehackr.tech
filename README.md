@@ -18,12 +18,12 @@ An independent and self-motivated computer science graduate with 2 years of expe
 
 ## ☎ `Reach Me Anytime` 🔑
 
-#### `LinkedIn:` [`https://www.linkedin.com/in/bytehackr/`](https://www.linkedin.com/in/bytehackr/)\`\`
+#### `LinkedIn:` [`https://www.linkedin.com/in/bytehackr/`](https://www.linkedin.com/in/bytehackr/)
 
-#### `Twitter:` [`https://twitter.com/ByteHackr`](https://twitter.com/ByteHackr)\`\`
+#### `Twitter:` [`https://twitter.com/ByteHackr`](https://twitter.com/ByteHackr)
 
-#### `GitHub:` [`https://github.com/ByteHackr`](https://github.com/ByteHackr)\`\`
+#### `GitHub:` [`https://github.com/ByteHackr`](https://github.com/ByteHackr)
 
-#### `Google Scholar:` [`https://scholar.google.com/citations?hl=en&user=L09VGlUAAAAJ`](https://scholar.google.com/citations?hl=en\&user=L09VGlUAAAAJ)\`\`
+#### `Google Scholar:` [`https://scholar.google.com/citations?hl=en&user=L09VGlUAAAAJ`](https://scholar.google.com/citations?hl=en\&user=L09VGlUAAAAJ)
 
-#### `OWASP Chapter:` [`https://owasp.org/www-chapter-berhampore/`](https://owasp.org/www-chapter-berhampore/)\`\`
+#### `OWASP Chapter:` [`https://owasp.org/www-chapter-berhampore/`](https://owasp.org/www-chapter-berhampore/)
