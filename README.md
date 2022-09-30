@@ -8,9 +8,9 @@ description: Sandipan Roy
 
 **`Skills: Penetration Test | Threat Hunting | Security Research`**
 
-An independent and self-motivated computer science graduate with 2 years of experience in Information Security. Completed M.Sc. in Computer Science with a demonstrated history of working in Web/Infra Security, Application Security & Vulnerability Management. Also having experience in penetration testing and reporting and provided a powerful combination of analysis, implementation, and customer support. I’m truly passionate about my work and always increase my knowledge. I also like to try new technologies and improve myself under each point of view.
+An independent and self-motivated computer science graduate with 3+ years of experience in Information Security. Completed M.Tech. in Computer Science and Engineering with a demonstrated history of working in Web/Infra Security, Application Security & Vulnerability Management. Also has experience in penetration testing and reporting and provided a powerful combination of analysis, implementation, and customer support. Nowadays very much Interested in Operating System Level Programming and Algorithmic Security Enhancement. I’m truly passionate about my work and always increase my knowledge. I also like to try new technologies and improve myself under each point of view.
 
-👨💻 I’m currently working at [Red Hat](https://redhat.com) as Associate Product Security Engineer.
+👨💻 I’m currently working at [Red Hat](https://redhat.com) as  Associate Product Security Engineer.
 
 📞 Reach me anytime at [**sandipan@redhat.com**](mailto:sandipan@redhat.com) or [**sandipan.roy@owasp.org**](mailto:sandipan.roy@owasp.org)
 
