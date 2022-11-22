@@ -12,7 +12,7 @@ An independent and self-motivated computer science graduate with 3+ years of exp
 
 👨💻 I’m currently working at [Red Hat](https://redhat.com) as  Associate Product Security Engineer.
 
-📞 Reach me anytime at [**sandipan@redhat.com**](mailto:sandipan@redhat.com) or [**sandipan.roy@owasp.org**](mailto:sandipan.roy@owasp.org)
+📞 Reach me anytime at [**sandipan@redhat.com**](mailto:sandipan@redhat.com) or [**sandipan@linux.com**](mailto:sandipan@linux.com)
 
 🔑 **GPG Key ID:** [**0x2895D0A52FEAA194**](https://raw.githubusercontent.com/ByteHackr/ByteHackr.github.io/master/sandipan\_roy.asc)
 
@@ -26,4 +26,3 @@ An independent and self-motivated computer science graduate with 3+ years of exp
 
 #### `Google Scholar:` [`https://scholar.google.com/citations?hl=en&user=L09VGlUAAAAJ`](https://scholar.google.com/citations?hl=en\&user=L09VGlUAAAAJ)
 
-#### `OWASP Chapter:` [`https://owasp.org/www-chapter-berhampore/`](https://owasp.org/www-chapter-berhampore/)
